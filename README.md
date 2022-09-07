@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @gnanendra786
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+gnanendra786/gnanendra786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+i am intreasted in learning phyton and meachine leaning 
+i am learning phython
+phyton 
